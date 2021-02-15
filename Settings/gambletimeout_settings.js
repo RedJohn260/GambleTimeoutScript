@@ -1,0 +1,13 @@
+﻿var settings = {
+  "Command1": "!coin",
+  "Command2": "!slots",
+  "Permission": "everyone",
+  "Info": "",
+  "TimeoutChance": 10.0,
+  "TimeoutSeconds": "60",
+  "Cooldown": 1.0,
+  "Response": "Get Rekt!!!",
+  "Command3": "!another command slot",
+  "Command4": "!another command slot",
+  "TimeUnit": "s"
+};
